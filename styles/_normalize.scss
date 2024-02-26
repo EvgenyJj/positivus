@@ -140,6 +140,7 @@ body {
   Удаляем все анимации и переходы для людей,
   которые предпочитают их не использовать
   */
+/*
 @media (prefers-reduced-motion: reduce) {
    * {
     animation-duration: 0.01ms !important;
@@ -148,3 +149,4 @@ body {
     scroll-behavior: auto !important;
   }
 }
+*/
